@@ -1,7 +1,24 @@
 {
   "format": 1,
-  "last_updated": "2019-04-25T23:48:33Z",
+  "last_updated": "2019-10-20T12:34:06Z",
   "devices": [
+    {
+      "type": "android",
+      "rules": [
+        {
+          "mdmh": "Huawei/*/LYA-AL00/*"
+        },
+        {
+          "ua": "LYA-AL00"
+        }
+      ],
+      "dpi": [
+        3120,
+        1440
+      ],
+      "bw": 2,
+      "ac": 1000
+    },
     {
       "type": "android",
       "rules": [
