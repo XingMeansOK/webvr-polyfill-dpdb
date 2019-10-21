@@ -96,7 +96,7 @@ node scripts/build.js --write
 
 The following devices were added (and/or corrections made):
 
-### 2019-04-25
+### 2019-10-20
 - [华为mate20pro]()
 
 ### 2019-04-25
